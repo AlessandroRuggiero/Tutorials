@@ -1,2 +1,4 @@
- - Link al dataset: https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
- - Link al tutorial : <da riempire >
+ - Link al dataset di cani e gatti: https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
+ - Link al tutorial :
+  -tutorial 1 Sequential-Dense: 
+  -tutorial 2 Conv-net: 
