@@ -1,0 +1,10 @@
+scalare i dati tra 0 e 1 aumenta drasticamente l'efficacia della rete neurale.
+per scalare i dati si puo usare sklear.
+
+from sklearn.preprocessing import StandardScaler
+
+scaler = StandardScaler ()
+X = scaler.fit_transform (X)
+
+
+Xt = scaler.transform (test[:,0:8])
