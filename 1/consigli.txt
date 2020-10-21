@@ -1,5 +1,5 @@
 scalare i dati tra 0 e 1 aumenta drasticamente l'efficacia della rete neurale.
-per scalare i dati si puo usare sklear.
+per scalare i dati si puo usare sklearn.
 
 from sklearn.preprocessing import StandardScaler
 
